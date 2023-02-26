@@ -149,3 +149,7 @@ kernel/configs/android-*.cfg
 
 # OP SLA feature
 #opslalib/slalib
+
+
+# NetHunter
+kali-nethunter-kernel/
